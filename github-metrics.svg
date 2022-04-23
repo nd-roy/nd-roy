@@ -1265,7 +1265,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcoe/conventional-release-labels</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apply labels for automatically generated release notes, based on conventionalcommits.org</div>
@@ -1462,7 +1462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 06:04:32 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 07:04:46 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
