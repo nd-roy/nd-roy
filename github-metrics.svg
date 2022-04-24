@@ -1264,7 +1264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qoomon/git-conventional-commits</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag</div>
@@ -1311,7 +1311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcoe/conventional-release-labels</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apply labels for automatically generated release notes, based on conventionalcommits.org</div>
@@ -1461,7 +1461,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 11:04:51 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 12:04:22 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
