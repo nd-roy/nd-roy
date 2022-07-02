@@ -1265,7 +1265,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wix/react-native-calendars</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native Calendar Components 🗓️ 📆</div>
@@ -1318,7 +1318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timfpark/react-native-location</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native plug-in that provides GPS location information</div>
@@ -1474,7 +1474,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2022, 01:16:11 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 02:34:05 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
