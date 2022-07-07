@@ -1292,7 +1292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liuchong/awesome-roadmaps</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of roadmaps.</div>
@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carloscuesta/react-native-error-boundary</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple and reusable React-Native error boundary component 🐛</div>
@@ -1495,7 +1495,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 10:09:40 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 11:05:10 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
